@@ -8,3 +8,5 @@ class B{
         System.out.println(b.toString());
     }
 }
+
+///here while compaling javac & get the output java B
