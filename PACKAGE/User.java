@@ -7,6 +7,7 @@ class User{
 
 // //from exceute process.
 // //java -d . User.java
+//java com.hdfc.user.User
 // //tree /F
 // //java com.hdec.user.User
 
